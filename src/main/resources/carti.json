@@ -1,37 +1,37 @@
 {
   "0": {
-    "titlul": "ceva",
-    "autorul": "ceva",
-    "anul": 2004
+    "titlul": "Călătoria lui Odiseu",
+    "autorul": "Homer",
+    "anul": 800
   },
   "1": {
-    "titlul": "Plansul lui Nitzsche",
-    "autorul": "Irvin Yalom",
-    "anul": 1992
+    "titlul": "Mândrie și prejudecată",
+    "autorul": "Jane Austen",
+    "anul": 1813
   },
   "2": {
-    "titlul": "De veghe in lanul de secara",
-    "autorul": "J.D. SALINGER",
-    "anul": 1951
+    "titlul": "Război și pace",
+    "autorul": "Lev Tolstoi",
+    "anul": 1869
   },
   "3": {
-    "titlul": "Mitul lui Camus",
-    "autorul": "Albert Camus",
-    "anul": 1942
+    "titlul": "Procesul",
+    "autorul": "Franz Kafka",
+    "anul": 1925
   },
   "4": {
-    "titlul": "Scurta istorie a omenirii",
+    "titlul": "Alchimistul",
+    "autorul": "Paulo Coelho",
+    "anul": 1988
+  },
+  "5": {
+    "titlul": "Sapiens - Scurtă istorie a omenirii",
     "autorul": "Yuval Noah Harari",
     "anul": 2011
   },
-  "5": {
-    "titlul": "Homo deus - Scurta istorie a viitorului",
-    "autorul": "Yuval Noah Harari",
-    "anul": 2015
-  },
   "6": {
-    "titlul": "21 de lectii pentru secolul XXI",
-    "autorul": "Yuval Noah Harari",
-    "anul": 2018
+    "titlul": "O scurtă istorie a timpului",
+    "autorul": "Stephen Hawking",
+    "anul": 1988
   }
 }
